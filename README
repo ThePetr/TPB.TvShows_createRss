@@ -1,0 +1,5 @@
+python TPBrss.py
+executes the script
+
+python TPBrss.py -h 
+prints help
